@@ -1,0 +1,29 @@
+.container, .col-md-12, .col-md-6, .col-md-3{
+    border: 3px solid #151718;
+    background-color: #373A48;
+    box-shadow: #151718 4px 4px 5px 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.col-md-6{
+    padding-right: 10px;
+}
+
+.header, .footer{
+    background-color: #745BDB;
+    line-height: 10vh;
+}
+
+.sidebar{
+    background-color: #37CAC2;
+    line-height: 50vh;
+}
+
+.content-1,.content-2, .content-3 {
+    background: #745bdb;
+    background: -webkit-linear-gradient(97deg, #745bdb 0%, #37cac2 100%);
+    background: linear-gradient(97deg, #745bdb 0%, #37cac2 100%);   
+    line-height: 20vh;
+
+}
