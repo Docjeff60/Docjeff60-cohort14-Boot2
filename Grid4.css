@@ -1,0 +1,26 @@
+.container{
+color: white;
+}
+
+body{
+    background: #15c4a3;
+    background: -webkit-linear-gradient(90deg, #15c4a3 0%, #485a7d 50%, #39a0ed 100%);
+    background: linear-gradient(90deg, #15c4a3 0%, #485a7d 50%, #39a0ed 100%);
+}
+
+.black{
+    background-color: #2B2C26;
+}
+
+.blue{
+    background-color: #485A7D;
+    
+}
+
+.green{
+    background-color: #15C4A3;
+}
+
+.lightblue{
+    background-color: #39A0ED;
+}
